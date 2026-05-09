@@ -1036,5 +1036,15 @@
             <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/amaxwell/tlutility/releases/download/1.55/TeX.Live.Utility.app-1.55.zip" sparkle:version="1.55" length="41009935" type="application/octet-stream" sparkle:dsaSignature="MCwCFAK30MDNOfEUmOWg5E/Yv/Wx/jbAAhRU1tsu3JtmMlJeid40IvyU/xAcWg=="></enclosure>
         </item>
+        <item>
+            <title>Version 1.57</title>
+            <description><![CDATA[
+    	    <h3>Changes Since 1.55</h3>
+    	        <li>For obsolete TeX Live installs, we now use the Utah mirror as a fallback (bug #159). TUG disabled its ftp server without warning, and ftp was the only source of historic TL versions when I added this feature in 2010.</li>
+            ]]></description>
+            <pubDate>Sat, 09 May 2026 16:48:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/amaxwell/tlutility/releases/download/1.57/TeX.Live.Utility.app-1.57.zip" sparkle:version="1.57" length="41010470" type="application/octet-stream" sparkle:dsaSignature="MCwCFCjxHzlgi9JPuLuJURfrYLp/Dw1MAhRerugEfAczgMfhY5rXlqCqZRH1+g=="></enclosure>
+        </item>
     </channel>
 </rss>
