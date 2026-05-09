@@ -210,28 +210,6 @@
 				<key>country</key>
 				<string>India</string>
 				<key>name</key>
-				<string>2.mirrors.in.sahilister.net</string>
-				<key>urls</key>
-				<array>
-					<string>http://2.mirrors.in.sahilister.net/ctan/</string>
-					<string>https://2.mirrors.in.sahilister.net/ctan/</string>
-				</array>
-			</dict>
-			<dict>
-				<key>country</key>
-				<string>India</string>
-				<key>name</key>
-				<string>3.mirrors.in.sahilister.net</string>
-				<key>urls</key>
-				<array>
-					<string>http://3.mirrors.in.sahilister.net/ctan/</string>
-					<string>https://3.mirrors.in.sahilister.net/ctan/</string>
-				</array>
-			</dict>
-			<dict>
-				<key>country</key>
-				<string>India</string>
-				<key>name</key>
 				<string>in.mirrors.cicku.me</string>
 				<key>urls</key>
 				<array>
@@ -247,6 +225,26 @@
 				<key>urls</key>
 				<array>
 					<string>https://mirror.niser.ac.in/ctan/</string>
+				</array>
+			</dict>
+			<dict>
+				<key>country</key>
+				<string>India</string>
+				<key>name</key>
+				<string>mirrors.in2.sahilister.net</string>
+				<key>urls</key>
+				<array>
+					<string>https://mirrors.in2.sahilister.net/ctan/</string>
+				</array>
+			</dict>
+			<dict>
+				<key>country</key>
+				<string>India</string>
+				<key>name</key>
+				<string>mirrors.in3.sahilister.net</string>
+				<key>urls</key>
+				<array>
+					<string>https://mirrors.in3.sahilister.net/ctan/</string>
 				</array>
 			</dict>
 			<dict>
@@ -466,18 +464,6 @@
 			</dict>
 			<dict>
 				<key>country</key>
-				<string>Belarus</string>
-				<key>name</key>
-				<string>mirror.datacenter.by</string>
-				<key>urls</key>
-				<array>
-					<string>rsync://mirror.datacenter.by/CTAN/</string>
-					<string>ftp://mirror.datacenter.by/pub/mirrors/CTAN/</string>
-					<string>https://mirror.datacenter.by/pub/mirrors/CTAN/</string>
-				</array>
-			</dict>
-			<dict>
-				<key>country</key>
 				<string>Bulgaria</string>
 				<key>name</key>
 				<string>ftp.uni-sofia.bg</string>
@@ -634,16 +620,6 @@
 			</dict>
 			<dict>
 				<key>country</key>
-				<string>France</string>
-				<key>name</key>
-				<string>texlive.mycozy.space</string>
-				<key>urls</key>
-				<array>
-					<string>https://texlive.mycozy.space/</string>
-				</array>
-			</dict>
-			<dict>
-				<key>country</key>
 				<string>Germany</string>
 				<key>name</key>
 				<string>ctan.ebinger.cc</string>
@@ -692,6 +668,17 @@
 				<key>urls</key>
 				<array>
 					<string>https://ctan.project-creative.net/</string>
+				</array>
+			</dict>
+			<dict>
+				<key>country</key>
+				<string>Germany</string>
+				<key>name</key>
+				<string>ctan.satztexnik.com</string>
+				<key>urls</key>
+				<array>
+					<string>ftp://satztexnik.com/pub/tex-archive/</string>
+					<string>https://satztexnik.com/tex-archive/</string>
 				</array>
 			</dict>
 			<dict>
@@ -896,6 +883,16 @@
 			</dict>
 			<dict>
 				<key>country</key>
+				<string>Hungary</string>
+				<key>name</key>
+				<string>ctan.uni-eszterhazy.hu</string>
+				<key>urls</key>
+				<array>
+					<string>https://ctan.uni-eszterhazy.hu/tex-archive/</string>
+				</array>
+			</dict>
+			<dict>
+				<key>country</key>
 				<string>Italy</string>
 				<key>name</key>
 				<string>ctan.mirror.garr.it</string>
@@ -1025,6 +1022,16 @@
 				<key>urls</key>
 				<array>
 					<string>https://ctan.fisiquimicamente.com/</string>
+				</array>
+			</dict>
+			<dict>
+				<key>country</key>
+				<string>Spain</string>
+				<key>name</key>
+				<string>ctan.gonzaleztroyano.es</string>
+				<key>urls</key>
+				<array>
+					<string>https://ctan.gonzaleztroyano.es/</string>
 				</array>
 			</dict>
 			<dict>
@@ -1261,18 +1268,6 @@
 				<key>country</key>
 				<string>Canada</string>
 				<key>name</key>
-				<string>mirror.its.dal.ca</string>
-				<key>urls</key>
-				<array>
-					<string>ftp://mirror.its.dal.ca/ctan/</string>
-					<string>rsync://mirror.its.dal.ca/ctan/</string>
-					<string>https://mirror.its.dal.ca/ctan/</string>
-				</array>
-			</dict>
-			<dict>
-				<key>country</key>
-				<string>Canada</string>
-				<key>name</key>
 				<string>mirror.quantum5.ca</string>
 				<key>urls</key>
 				<array>
@@ -1459,7 +1454,7 @@
 				<key>urls</key>
 				<array>
 					<string>https://mirror.aarnet.edu.au/pub/CTAN/</string>
-					<string>rsync://mirror.aarnet.edu.au/pub/CTAN/</string>
+					<string>rsync://mirror.aarnet.edu.au/CTAN/</string>
 				</array>
 			</dict>
 		</array>
@@ -1490,6 +1485,6 @@
 		</array>
 	</dict>
 	<key>timestamp</key>
-	<real>1771958467.830946</real>
+	<real>1778344030.059045</real>
 </dict>
 </plist>
