@@ -9,6 +9,12 @@ DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
 MACOSX_DEPLOYMENT_TARGET = 10.9
 PREBINDING = NO
 
+// Not sure what this does; when code signing breaks on the release build,
+// make sure the "TeX Live Utility Signing Certificate" exists in the keychain
+// and is not expired, as Xcode uses that. The build script re-signs with the
+// official cert in codesign-all.sh
+CODE_SIGN_IDENTITY = -
+
 CLANG_CXX_LIBRARY = libc++
 
 // this is pretty worthless

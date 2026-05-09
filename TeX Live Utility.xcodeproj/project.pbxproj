@@ -1464,7 +1464,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n#${SRCROOT}/codesign-all.sh \"${CODESIGNING_FOLDER_PATH}\"\n\n\n\n";
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n#${SRCROOT}/codesign-all.sh \"${CODESIGNING_FOLDER_PATH}\"\n\n\n";
 		};
 		F965629E1812189E000B1464 /* Sign frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
